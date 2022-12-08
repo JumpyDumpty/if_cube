@@ -25,3 +25,6 @@ def identify(*cube):
 print(identify(["O", "O"],
   ["O", "O", "O"],
   ["O", "O", "O"]))
+print(identify(["O", "O", "O", "O"],
+  ["O", "O", "O", "O"],
+  ["O", "O", "O", "O"], ["O", "O", "O", "O"]))
